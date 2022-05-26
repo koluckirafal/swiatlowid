@@ -1,0 +1,2 @@
+git+https://github.com/gawel/irc3.git#egg=irc3
+version_query
